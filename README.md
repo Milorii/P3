@@ -40,7 +40,3 @@ Aplikasi ini dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti:
 - Format teks
 - Pencarian
 - Fitur edit lanjutan
-
-## Lisensi
-
-[Sesuaikan dengan lisensi yang Anda gunakan]
